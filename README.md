@@ -1,27 +1,26 @@
-Sales Analysis Dashboard using Excel
+# Sales Dashboard - Excel 📊
 
-Overview
+## Overview
+Interactive Sales Dashboard built using Microsoft Excel
+with Pivot Tables, Charts, and Slicers.
 
-Created an interactive sales dashboard using Microsoft Excel to analyze sales performance across different regions and products.
+## Tools Used
+- Microsoft Excel — Dashboard, Pivot Tables, Charts
 
-Features
+## Dashboard Features
+- Total Sales, Average Sales, Units Sold, Profit — KPI Cards
+- Unit Sold by Product — Line Chart
+- Total Sales by Product — Bar Chart & Donut Chart
+- Total Sales by Salesperson — Column Chart
+- Region Filter (East/North/South/West)
+- Sales Person Filter
+- Product Filter
 
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Total Sales KPI
-- Top Region Analysis
-- Top Product Analysis
+## Key Insights
+- Tent has highest sales (21,18,000)
+- Sneakers second highest (22,84,000)
+- Grace leads in individual sales (16,78,000)
+- West & East regions dominate sales
 
-Tools Used
-
-- Microsoft Excel
-
-Key Insights
-
-- East region generated the highest sales.
-- Laptop category contributed the highest revenue.
-
-Project Outcome
-
-Developed an interactive Excel dashboard to transform raw sales data into meaningful business insights.
+## Dashboard Preview
+![Dashboard](dashboard.png)
